@@ -1,10 +1,5 @@
 
 // CS311 : This is the BST implementation file template by Rika Yoshii
-// INSTRUCTIONS:
-//** Look for ** comments to complete this file for HW4
-// Try not to delete the ** comments
-// Make sure all { } match. Doing Tab on each line helps.
-
 // =========================================================
 //HW#: HW4 BST
 //Your name: Enrique Alonso Esposito
