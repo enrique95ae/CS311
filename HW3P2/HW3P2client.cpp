@@ -1,8 +1,3 @@
-//INSTRUCTION
-//Look for ** to complete all of them
-//The output should match my assingment sheet
-//DO not forget to Tab on each line
-
 //=========================================================
 //HW#: HW3P2 slist
 //Your name: Enrique Alonso Esposito
