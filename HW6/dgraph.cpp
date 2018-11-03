@@ -7,12 +7,6 @@
 #include "dgraph.h"
 #include <iostream>
 
-// ====   For the dgraph.cpp file ====================================
-// INSTRUCTION:
-// Complete all the functions you listed in dgraph.h
-// Comment the file completely using How to Comment file.
-//=====================================
-
 //CONSTRUCTOR
 //Initializes the elements in the array.
 //vertexName to blank
