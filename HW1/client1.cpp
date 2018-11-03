@@ -1,7 +1,3 @@
-//INSTRUCTION
-//Look for ** to complete this program 
-//The output should match my hw1stackDemo.out 
-
 //=========================================================
 //HW#: HW1P1 stack
 //Your name: Enrique Alonso Esposito
