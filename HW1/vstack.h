@@ -1,10 +1,4 @@
-//INSTRUCTION:
 //Stack class - header file template (by Yoshii) based on Notes-1
-//You must complete the ** parts and then complete stack.cpp
-//EMACS HINT:
-//  control-S does searches
-//  Tab on each line will indent perfectly for C++
-
 // =======================================================
 // HW#: HW1P2 vector stack
 // Your name: Enrique Alonso Esposito
