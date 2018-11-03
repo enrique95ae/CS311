@@ -1,10 +1,4 @@
-//INSTRUCTION
-//Look for **. (do control-S)
-//Update the comments using the HOW TO COMMENT file,
-//  complete exception handling and
-//  finish ClearIt to make this complete - Yoshii (CS311)
-// When done, compile stack.cpp to make sure there are no syntax errors.
-
+//Based on Yoshii's template 
 //=========================================================
 //HW#: HW1P1 stack
 //Your name: Enrique Alonso Esposito
