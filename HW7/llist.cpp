@@ -1,16 +1,4 @@
-//INSTRUCTION:
-//Use the provided text to help create llist.cpp
-//based on Yoshii  CS311  Notes-6A
-
-//- Make sure PURPOSE and PARAMETER comments are given
-//  DO NOT DELETE my descriptions but USE them.
-//- Make sure all if-then-else are commented describing which case it is
-//- Make sure all local variables are described fully with their purposes
-//EMACS HINT:
-//  control-K cuts and control-Y pastes
-//  Esc X replace-str does string replacements
-//  Esc > goes to the end of the file; Esc < to the beginning
-//  Tab on each line will indent perfectly for C++
+//Based on Yoshii's template.
 // ====================================================
 //HW#: HW3P1 llist
 //Your name: Enrique Alonso Esposito
