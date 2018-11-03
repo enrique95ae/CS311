@@ -1,7 +1,4 @@
-//INSTRUCTION
-//Look for ** to complete all of them
-//The output should match my assingment sheet
-
+//Template by Yoshii
 //=========================================================
 //HW#: HW3P3 slist
 //Your name: Enrique Alonso Esposito
