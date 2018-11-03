@@ -1,7 +1,4 @@
-//INSTRUCTION:
 //Llist class - header file template (by Yoshii) based on Notes-6A
-//You must complete the ** parts and then complete llist.cpp
-// Don't forget PURPOSE and PARAMETERS 
 // =======================================================
 // HW#: HW3P1 llist
 // Your name: Enrique Alonso Esposito
