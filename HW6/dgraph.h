@@ -1,10 +1,3 @@
-
-// ============ for the dgraph.h file =================================
-// INSTRUCTION:
-// You need to comment this file completely using the How to Comment file.
-// You have seen many examples so far.
-// We will check to see how well you have commented it.
-
 // I am using hw3p3.h which is the most up to date slist.h
 // You can change it to your "slist.h"
 
