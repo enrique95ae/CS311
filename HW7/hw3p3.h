@@ -1,6 +1,5 @@
 /*==========================================================
-slist.h for HW3P3 Provided by Rika for those who could not
-get it to work.
+slist.h for HW3P3 Provided by Yoshii
 ============================================================*/
 
 #ifndef SLIST_H
