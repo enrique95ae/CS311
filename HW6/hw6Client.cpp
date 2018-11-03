@@ -3,9 +3,6 @@
 //Compiler g++
 //File type: Client file
 
-// ====   For the HW6 Client file ====================================
-//INSTRUCTION: Complete this file and comment using How to Comment file.
-
 #include "dgraph.h"
 using namespace std;
 
